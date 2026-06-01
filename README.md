@@ -1,9 +1,20 @@
-# clovmod
+# Brewery: Even Drunkier
+Makes drunk players sound even drunker by distorting their chat messages based on their alcohol level.
 
-## Setup
+## Installation
+Requires [Fabric API](https://modrinth.com/mod/fabric-api) and [Patbox's Brewery](https://modrinth.com/mod/brewery).
+- Server-side only
+- No client installation required
+- Multiplayer compatible
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+<img width="973" height="216" alt="image" src="https://github.com/user-attachments/assets/205b92a1-aae8-4735-8a37-20cf3d2baa1d" />
 
-## License
+## Note
+This mod was made for my own server and is shared publicly for anyone who wants to use it.
+Updates are primarily driven by the needs of my server.
+Backports to older versions are not planned.
+Anyone is welcome to port this mod to other Minecraft versions.
+## Credits
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+[Patbox's Brewery](https://modrinth.com/mod/brewery) by Patbox
+
