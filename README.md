@@ -1,4 +1,4 @@
-# Brewery: Even Drunkier
+# Brewery: Drunk Messages
 Makes drunk players sound even drunker by distorting their chat messages based on their alcohol level.
 
 ## Installation
