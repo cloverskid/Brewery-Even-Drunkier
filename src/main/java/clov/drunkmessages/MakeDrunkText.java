@@ -1,4 +1,4 @@
-package clov.drunktext;
+package clov.drunkmessages;
 
 import net.fabricmc.fabric.api.message.v1.ServerMessageEvents;
 import net.minecraft.server.MinecraftServer;
@@ -139,9 +139,9 @@ public class MakeDrunkText {
         if (strength > 3.0f) {
             float trailingRoll = RANDOM.nextFloat();
             if (trailingRoll < 0.25f) {
-                out.append("... ик!");
+                out.append("... ");
             //} else if (trailingRoll < 0.50f) {
-                //out.append(" ... вооот");
+                //out.append(" ... ик!");
             //} else if (trailingRoll < 0.70f) {
                 //out.append(" ---т-о");
             }

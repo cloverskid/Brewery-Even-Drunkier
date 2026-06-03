@@ -1,8 +1,8 @@
 {
 	"schemaVersion": 1,
-	"id": "brewery-drunktext",
+	"id": "brewery-drunkmessages",
 	"version": "${version}",
-	"name": "Brewery: Even Drunkier",
+	"name": "Brewery: Drunk Messages",
 	"description": "Makes drunk players sound even drunker by distorting their chat messages based on their alcohol level.",
 	"authors": [
 		"CloverS_Kid"
@@ -13,14 +13,14 @@
 		"homepage": "https://modrinth.com/mod/brewery-messages"
 	},
 	"license": "MIT",
-	"icon": "assets/clovmod/icon.png",
+	"icon": "assets/drunkmessages/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"clov.drunktext.ClovMod"
+			"clov.drunkmessages.ClovMod"
 		],
 		"fabric-datagen": [
-			"clov.drunktext.client.ClovmodDataGenerator"
+			"clov.drunkmessages.client.ClovmodDataGenerator"
 		]
 	},
 	"depends": {
